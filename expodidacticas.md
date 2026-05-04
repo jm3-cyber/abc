@@ -48,3 +48,35 @@ Todo suma al ambiente didáctico y ayuda a construir una experiencia memorable. 
 **Total:** 🧾 **100 puntos**
 
 ---
+
+## Temas
+
+### 1. Inteligencia Artificial Generativa
+Modelos capaces de crear texto, imágenes, código y más. Herramientas como ChatGPT o generadores de imágenes están transformando industrias completas.
+
+### 2. Ciberseguridad y Zero Trust
+El enfoque moderno de seguridad donde ningún usuario o sistema es confiable por defecto, incluso dentro de la red corporativa. Fundamental ante el aumento de ataques.
+
+### 3. Computación en la Nube (Cloud Computing)
+Uso de servicios como AWS, Azure o Google Cloud para infraestructura, almacenamiento y procesamiento sin necesidad de hardware propio.
+
+### 4. DevOps y DevSecOps
+Integración de desarrollo y operaciones para entregar software más rápido y seguro. DevSecOps añade seguridad desde el inicio del ciclo de vida.
+
+### 5. Blockchain y Web3
+Tecnologías descentralizadas que permiten transacciones seguras sin intermediarios. Aplicaciones en finanzas, identidad digital y más.
+
+### 6. Internet de las Cosas (IoT)
+Dispositivos conectados que recopilan y comparten datos (hogares inteligentes, ciudades inteligentes, industria 4.0).
+
+### 7. Computación Cuántica
+Nuevo paradigma que usa principios de la física cuántica para resolver problemas complejos mucho más rápido que los computadores tradicionales.
+
+### 8. Desarrollo de Software Ágil y Eficiente
+* Low-Code / No-Code: Plataformas que permiten crear aplicaciones rápidamente con interfaces visuales, requiriendo un mínimo de escritura de código.
+
+### 9. Realidad Extendida (XR)
+Realidad Virtual y Aumentada (VR/AR): Desarrollo de experiencias inmersivas y superposición de información digital en el mundo real, aplicadas a la medicina, la educación y la industria.
+
+### 10. Computación Verde y Sostenibilidad
+Green IT: Prácticas orientadas a reducir el consumo energético, la huella de carbono y el impacto ambiental de los centros de datos, servidores y software.
