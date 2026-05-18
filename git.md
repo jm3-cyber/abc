@@ -21,7 +21,7 @@ para comprobar la instalación. Un resultado similar a éste:
 $ git --version
 git version 2.24.3 (Apple Git-128)
 ```
-indica una instalación exitosa.
+...indica una instalación exitosa.
 
 ## ¿Qué es Github?
 
@@ -56,7 +56,7 @@ repositorio.
 Los archivos nuevos que se creen en el repositorio no estarán controlados inicialmente por Git.
 Se puede verificar si hay archivos sin controlar mediante el comando `git status`:
 ```
-git status
+$ git status
 On branch main
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
@@ -82,7 +82,7 @@ el `git add` sobre dicho archivo, para que los cambios sean tenidos en cuenta po
 Una vez hecho el `git add`, los cambios quedan en lo que se conoce como *área de preparación*
 (staging area). Para confirmar dichos cambios, se emplea el comando `git commit`:
 ```
-git commit -m "Se agregó el archivo nuevo.txt`
+$ git commit -m "Se agregó el archivo nuevo.txt`
 [main 8c35293] Se agregó el archivo nuevo.txt
  1 file changed, 1 insertion(+)
  create mode 100644 nuevo.txt
@@ -118,7 +118,7 @@ git restore nuevo.txt
 
 Se puede revisar la historia de commits con `git log --oneline`:
 ```
-git log --oneline
+$ git log --oneline
 8c35293 (HEAD -> main) Se agregó el archivo nuevo.txt
 1ef437a (origin/main) Creado git.md
 4752737 Primera versión de los materiales de estudio
