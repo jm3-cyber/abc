@@ -22,7 +22,7 @@ La siguiente es la lista de actividades a realizar
   otro commit.
 * Agregue al programa dos nuevas marcas de automóviles, y borre la primera.
   Efectúe otro commit.
-* Agregue al repositorio un archivo llamado `aprendizajes.md`. En él resuma los
+* Agregue al repositorio local un archivo llamado `aprendizajes.md`. En él resuma los
   principales aprendizajes que tuvo en el curso. Incluya dos tipos de
   encabezados, una lista de tareas, una tabla con tres columnas y por lo menos
   cuatro filas, y dos emojis. Efectúe un nuevo commit.
@@ -39,4 +39,4 @@ La siguiente es la lista de actividades a realizar
   finalización de este ejercicio. Haga el commit respectivo, y haga un push
   del repositorio local a Github.
 
-Muchos éxitos... ¡que la fuerza te acompañe!
+Muchos éxitos... ¡que la fuerza te acompañe! 💫
