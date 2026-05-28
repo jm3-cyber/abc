@@ -17,10 +17,10 @@ La siguiente es la lista de actividades a realizar
   se vea con el formato correcto. De no ser así, corrija el archivo localmente,
   y vuelva a hacer commit y push.
 * Agregue al repositorio local un programa en Python que imprima tres marcas de
-  automóviles en pantalla. Haga un commit con un comentario adecuado.
-* Agregue al programa una nueva marca de automóvil y un comentario. Efectúe
+  galletas en pantalla. Haga un commit con un comentario adecuado.
+* Agregue al programa una nueva marca de galletas y un comentario. Efectúe
   otro commit.
-* Agregue al programa dos nuevas marcas de automóviles, y borre la primera.
+* Agregue al programa dos nuevas marcas de galletas, y borre la primera.
   Efectúe otro commit.
 * Agregue al repositorio local un archivo llamado `aprendizajes.md`. En él resuma los
   principales aprendizajes que tuvo en el curso. Incluya dos tipos de
